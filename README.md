@@ -6,6 +6,12 @@
 
 This project is a Python-based tool designed to automate the lip-syncing process for animations. It uses AssemblyAI for speech transcription and MoviePy to generate synchronized lip movement videos based on audio input. The project was developed as a final project for CS50, inspired by the need for a more accessible and affordable lip sync solution than those offered by existing tools like Adobe Animate.
 
+## Video Demonstration
+
+https://www.youtube.com/watch?v=OxxzVz4WSbw
+
+You can watch a demonstration of the tool's functionality at the link above.
+
 ## Features
 
 - **Automated Lip Syncing**: Transcribes audio files and matches the speech to appropriate mouth shapes (visemes).
